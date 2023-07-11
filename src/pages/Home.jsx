@@ -13,5 +13,5 @@
 // limitations under the License.
 
 export default function HomePage() {
-  return <div>Home Page</div>;
+  return <div>Home Good Page</div>;
 }
